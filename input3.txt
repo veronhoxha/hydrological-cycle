@@ -1,0 +1,6 @@
+4
+AAA G 40
+BBB G 26
+CCC G 12
+DDD P 35
+120
